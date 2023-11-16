@@ -51,6 +51,9 @@ Parallelisation is employed so that 50 neural networks will compete simultaneous
 🗑️ - Discard the current saved data in local storage
 📡 - Toggles telemetry (the display of control inputs for each car).
 
+![image](https://github.com/sofia-sudo/SelfDrivingCarJS/assets/66554514/13b28902-347e-4a92-8134-6940ad8fb92e)
+
+
 ## Project Structure
 
 ### Index.html
