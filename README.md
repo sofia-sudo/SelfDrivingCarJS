@@ -46,10 +46,10 @@ Each AI is judged by a fitness function designed to reward speed, distance trave
 
 Parallelisation is employed so that 50 neural networks will compete simultaneously. At the end of a generation, the highest scoring network is applied to all 50 new cars, with each mutating slightly. The champion will always carry over exactly to the next generation.
 
-🔁 - Launches the next generation
-💾 - Save the current lead driver to local storage
-🗑️ - Discard the current saved data in local storage
-📡 - Toggles telemetry (the display of control inputs for each car).
+-🔁 - Launches the next generation
+-💾 - Save the current lead driver to local storage
+-🗑️ - Discard the current saved data in local storage
+-📡 - Toggles telemetry (the display of control inputs for each car).
 
 ![image](https://github.com/sofia-sudo/SelfDrivingCarJS/assets/66554514/13b28902-347e-4a92-8134-6940ad8fb92e)
 
