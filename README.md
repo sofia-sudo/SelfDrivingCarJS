@@ -4,6 +4,9 @@
 
 A project to explore making a neural network from scratch. I made this to deepen my understanding of how a neural network works under the hood, and to explore genetic algorithms.
 
+![image](https://github.com/sofia-sudo/SelfDrivingCarJS/assets/66554514/4b9d7193-2299-4495-922b-aa2fd746d003)
+
+
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
