@@ -113,7 +113,7 @@ Parallelisation is employed so that 50 neural networks will compete simultaneous
 - Check for intersection between two polygons
 
 ## Genetic Algorithms
-// FILL IN HERE //
+This was my first time experimenting with genetic algorithms. The algorithm here is configured such that there are 50 networks in a generation, and upon advancing to the next generation only the champion is retained. The top-performing network is copied over, and then mutated 49 times by a variable degree to create the next generation of networks. 
 
 ## Future Enhancements
 
